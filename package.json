@@ -1,0 +1,29 @@
+{
+  "name": "jspolyfill-array.prototype.findIndex",
+  "version": "0.1.3",
+  "description": "Array.prototype.findIndex ES6 polyfill for ES5 versions and lower.",
+  "main": "findIndex.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsPolyfill/Array.prototype.findIndex"
+  },
+  "keywords": [
+    "array",
+    "polyfill",
+    "js",
+    "ES6",
+    "ES5"
+  ],
+  "author": "Crisoforo Gaspar Hernandez <hello@crisoforo.com> (http://crisoforo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsPolyfill/Array.prototype.findIndex/issues"
+  },
+  "homepage": "https://github.com/jsPolyfill/Array.prototype.findIndex#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
